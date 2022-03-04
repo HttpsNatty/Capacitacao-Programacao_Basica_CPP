@@ -1,6 +1,6 @@
 CTRL + SHIFT + B = Complia o código fonte;
 CTRL + F5 = Executa o programa;
-CTRL + K + C = Transforma a linha de código em comenta;
+CTRL + K + C = Transforma a linha de código em comentário;
 CTRL + C no final da linha = copia a linha inteira sem precisar selecionar;
 CTRL + R + CTRL + R = Quando selecionado uma variavel consegue alterar o nome em todas as vezes que aparece;
 ALT GR = segure essa tecla e clique na posição que deseja alterar ao mesmo tempo;
