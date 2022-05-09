@@ -1,4 +1,4 @@
-#include <iostream> // abeçalho do cout e cin
+#include <iostream> // cabeçalho do cout e cin
 #include <tchar.h> //cabeçalho da linguagem do console
 
 using namespace std;// poupa tempo de escrever o std::
